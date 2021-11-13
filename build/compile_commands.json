@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/dterrade/Documents/test/Test_vscode/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/server.dir/main.cpp.o -c /Users/dterrade/Documents/test/Test_vscode/main.cpp",
+  "file": "/Users/dterrade/Documents/test/Test_vscode/main.cpp"
+},
+{
+  "directory": "/Users/dterrade/Documents/test/Test_vscode/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/client.dir/client.cpp.o -c /Users/dterrade/Documents/test/Test_vscode/client.cpp",
+  "file": "/Users/dterrade/Documents/test/Test_vscode/client.cpp"
+}
+]
