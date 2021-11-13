@@ -23,6 +23,8 @@ class clientHandler{
         server* server;
         int m_socket_fd;            // File Descriptor for client socket
         sockaddr_in m_socket_addr;  // Client Socket address Configuration obj.
+        int temp;
+        int temp2;
 
 };
 
