@@ -25,6 +25,7 @@ class clientHandler{
         sockaddr_in m_socket_addr;  // Client Socket address Configuration obj.
         int temp;
         int temp2;
+        int temp3;
 
 };
 
